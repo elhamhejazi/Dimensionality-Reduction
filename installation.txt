@@ -1,0 +1,15 @@
+
+# Python 3.7
+
+# pip
+
+pip install tfa-nightly
+
+pip install wheel
+pip install pandas
+
+pip install -U scikit-learn
+pip install -U matplotlib
+pip install -U keras
+pip install -U tensorflow
+

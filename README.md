@@ -1,10 +1,9 @@
 # Dimensionality Reduction
 Dimensionality Reduction  : LLE and LIM , Classifier : KNN, RF, MLP, RBF
 
-Implementing dimensionality reduction\
+Project DR06: Implementing dimensionality reduction\
+Course: Applied Machine Learning
 Elhamsadat Hejazi(https://www.linkedin.com/in/elham-hejazi)
-
-## Overal Work
 
 ## Introduction
 
